@@ -1,13 +1,15 @@
-Project Overview
+Project Overview:
+
+
 This project aims to provide a real-time solution for detecting vitiligo in video feeds. By leveraging CNNs and OpenCV, it can analyze camera input to identify frames that potentially contain signs of vitiligo. A GUI built with Tkinter makes it easy to use, providing a simple interface for live video analysis.
 
-Requirements
-Python 3.7 or later
-TensorFlow 2.x
-OpenCV
-Pillow
-Tkinter
-Architecture
+Requirements:
+Python 3.7 or later,
+TensorFlow 2.x,
+OpenCV,
+Pillow,
+Tkinter,
+Architecture.
 
 
 Model: The model is a Convolutional Neural Network designed to classify frames into two categories: "Vitiligo" or "No Vitiligo." It comprises several convolutional layers, followed by dense layers for classification.
