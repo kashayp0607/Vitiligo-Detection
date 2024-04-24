@@ -31,3 +31,6 @@ Fork the repository on GitHub.
 Create a new branch for your feature or bug fix.
 Submit a pull request with a detailed explanation of your changes.
 Ensure your code follows the existing style and is well-documented.
+
+RESULT:
+![image](https://github.com/kashayp0607/Vitiligo-Detection/assets/105981293/e4b20c8f-5001-4606-8221-b144c54f11a7)
