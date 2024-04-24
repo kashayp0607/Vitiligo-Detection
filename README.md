@@ -24,13 +24,28 @@ Data Preprocessing: Images were resized and normalized to ensure compatibility w
 Model Architecture: A CNN with multiple convolutional and dense layers was defined to classify images into binary categories.
 Training: The model was trained using TensorFlow, with binary cross-entropy as the loss function and Adam as the optimizer.
 Real-Time Detection: OpenCV was used to capture real-time video from the webcam, and Pillow was used to process frames before feeding them into the CNN model for prediction.
+
+
+
 Contributing
+
+
 Contributions are welcome! If you'd like to contribute to the project, please:
 
+
+
 Fork the repository on GitHub.
+
+
 Create a new branch for your feature or bug fix.
+
+
 Submit a pull request with a detailed explanation of your changes.
+
+
 Ensure your code follows the existing style and is well-documented.
+
+
 
 RESULT:
 ![image](https://github.com/kashayp0607/Vitiligo-Detection/assets/105981293/e4b20c8f-5001-4606-8221-b144c54f11a7)
